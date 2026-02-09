@@ -168,16 +168,16 @@ LIGHT MODE BUTTON FIX - All Buttons Brown with White Text
 
 /* Regular Buttons */
 .theme-light button:not(.mod-cta, .mod-warning, .clickable-icon, .setting-editor-extra-setting-button, .workspace-tab-header-inner-close-button) {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 /* Hover State */
 .theme-light button:not(.mod-cta, .mod-warning, .clickable-icon):hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Settings Modal Buttons */
@@ -185,110 +185,110 @@ LIGHT MODE BUTTON FIX - All Buttons Brown with White Text
 .theme-light .modal .button,
 .theme-light .modal .community-plugin-button,
 .theme-light .modal .community-theme-button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 /* Settings Item Control Buttons */
 .theme-light .setting-item-control button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 .theme-light .setting-item-control button:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Dropdown Buttons */
 .theme-light .dropdown {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    text-align: center !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    text-align: center ;
 }
 
 .theme-light .dropdown:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Community Plugin/Theme Install Buttons */
 .theme-light .community-plugin-button,
 .theme-light .community-theme-button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 .theme-light .community-plugin-button:hover,
 .theme-light .community-theme-button:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* CTA Buttons (should still be readable) */
 .theme-light button.mod-cta {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
+    font-weight: bold ;
 }
 
 .theme-light button.mod-cta:hover {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
 }
 
 /* Warning Buttons - keep red but ensure white text */
 .theme-light button.mod-warning {
-    background-color: #c44536 !important;
-    color: white !important;
-    font-weight: bold !important;
+    background-color: #c44536 ;
+    color: white ;
+    font-weight: bold ;
 }
 
 /* Fix for Smalltalk/Dialog Buttons */
 .theme-light .smalltalk button,
 .theme-light .modal button:not(.mod-cta):not(.mod-warning) {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 .theme-light .smalltalk button:hover,
 .theme-light .modal button:not(.mod-cta):not(.mod-warning):hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Fix for Plugin Buttons in Settings */
 .theme-light .community-item-button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 .theme-light .community-item-button:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Fix for Copy Code Buttons */
 .theme-light .copy-code-button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
 }
 
 .theme-light .copy-code-button:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* Ensure Focus States are Visible */
@@ -296,20 +296,20 @@ LIGHT MODE BUTTON FIX - All Buttons Brown with White Text
 .theme-light input:focus-visible,
 .theme-light textarea:focus-visible,
 .theme-light select:focus-visible {
-    outline: 2px solid var(--cappuccino-base) !important;
-    outline-offset: 2px !important;
+    outline: 2px solid var(--cappuccino-base) ;
+    outline-offset: 2px ;
 }
 
 /* Fix for File Explorer Action Buttons */
 .theme-light .nav-action-button {
-    background-color: var(--cappuccino-base) !important;
-    color: white !important;
-    border-color: var(--cappuccino-border) !important;
+    background-color: var(--cappuccino-base) ;
+    color: white ;
+    border-color: var(--cappuccino-border) ;
 }
 
 .theme-light .nav-action-button:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 /* ========================================
@@ -647,50 +647,50 @@ ACCENT PRESETS - Quick Theme Variations
 
 /* 🌿 Forest Brown Preset */
 body.mocha-forest {
-    --espresso-base: #8a7b68 !important;
-    --espresso-hover: #6b5e4d !important;
-    --espresso-active: #e8e0d5 !important;
-    --espresso-border: #4a4035 !important;
-    --cappuccino-base: #8a7b68 !important;
-    --cappuccino-hover: #6b5e4d !important;
-    --cappuccino-active: #e8e0d5 !important;
-    --cappuccino-border: #4a4035 !important;
+    --espresso-base: #8a7b68 ;
+    --espresso-hover: #6b5e4d ;
+    --espresso-active: #e8e0d5 ;
+    --espresso-border: #4a4035 ;
+    --cappuccino-base: #8a7b68 ;
+    --cappuccino-hover: #6b5e4d ;
+    --cappuccino-active: #e8e0d5 ;
+    --cappuccino-border: #4a4035 ;
 }
 
 /* 🔵 Midnight Blue Preset */
 body.mocha-midnight {
-    --espresso-base: #6b829a !important;
-    --espresso-hover: #52687d !important;
-    --espresso-active: #e6edf5 !important;
-    --espresso-border: #3d4e5e !important;
-    --cappuccino-base: #6b829a !important;
-    --cappuccino-hover: #52687d !important;
-    --cappuccino-active: #e6edf5 !important;
-    --cappuccino-border: #3d4e5e !important;
+    --espresso-base: #6b829a ;
+    --espresso-hover: #52687d ;
+    --espresso-active: #e6edf5 ;
+    --espresso-border: #3d4e5e ;
+    --cappuccino-base: #6b829a ;
+    --cappuccino-hover: #52687d ;
+    --cappuccino-active: #e6edf5 ;
+    --cappuccino-border: #3d4e5e ;
 }
 
 /* 🍷 Burgundy Preset */
 body.mocha-burgundy {
-    --espresso-base: #9a586b !important;
-    --espresso-hover: #7d4458 !important;
-    --espresso-active: #f5e8ed !important;
-    --espresso-border: #5e3544 !important;
-    --cappuccino-base: #9a586b !important;
-    --cappuccino-hover: #7d4458 !important;
-    --cappuccino-active: #f5e8ed !important;
-    --cappuccino-border: #5e3544 !important;
+    --espresso-base: #9a586b ;
+    --espresso-hover: #7d4458 ;
+    --espresso-active: #f5e8ed ;
+    --espresso-border: #5e3544 ;
+    --cappuccino-base: #9a586b ;
+    --cappuccino-hover: #7d4458 ;
+    --cappuccino-active: #f5e8ed ;
+    --cappuccino-border: #5e3544 ;
 }
 
 /* 🟤 Rich Walnut Preset */
 body.mocha-walnut {
-    --espresso-base: #a87c5e !important;
-    --espresso-hover: #8b6246 !important;
-    --espresso-active: #f0e8e0 !important;
-    --espresso-border: #6b4d35 !important;
-    --cappuccino-base: #a87c5e !important;
-    --cappuccino-hover: #8b6246 !important;
-    --cappuccino-active: #f0e8e0 !important;
-    --cappuccino-border: #6b4d35 !important;
+    --espresso-base: #a87c5e ;
+    --espresso-hover: #8b6246 ;
+    --espresso-active: #f0e8e0 ;
+    --espresso-border: #6b4d35 ;
+    --cappuccino-base: #a87c5e ;
+    --cappuccino-hover: #8b6246 ;
+    --cappuccino-active: #f0e8e0 ;
+    --cappuccino-border: #6b4d35 ;
 }
 
 /* ========================================
@@ -706,7 +706,7 @@ body.mocha-rounded-corners {
 
 /* Hide Status Bar Toggle */
 body.mocha-hide-status-bar .status-bar {
-    display: none !important;
+    display: none ;
 }
 
 /* ========================================
@@ -717,21 +717,21 @@ body.mocha-hide-status-bar .status-bar {
 body.mocha-translucent-modals.theme-dark .modal,
 body.mocha-translucent-modals.theme-dark .prompt,
 body.mocha-translucent-modals.theme-dark .menu {
-  background-color: rgba(30, 20, 15, 0.92) !important;
-  backdrop-filter: blur(10px) !important;
-  border: 1px solid var(--background-modifier-border) !important;
-  color: var(--text-normal) !important;
+  background-color: rgba(30, 20, 15, 0.92) ;
+  backdrop-filter: blur(10px) ;
+  border: 1px solid var(--background-modifier-border) ;
+  color: var(--text-normal) ;
 }
 
 /* Light Mode - Lighter, more readable */
 body.mocha-translucent-modals.theme-light .modal,
 body.mocha-translucent-modals.theme-light .prompt,
 body.mocha-translucent-modals.theme-light .menu {
-  background-color: rgba(221, 204, 188, 0.884) !important; /* Light cream */
-  backdrop-filter: blur(8px) !important;
-  border: 1px solid var(--background-modifier-border) !important;
-  color: var(--text-normal) !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
+  background-color: rgba(221, 204, 188, 0.884) ; /* Light cream */
+  backdrop-filter: blur(8px) ;
+  border: 1px solid var(--background-modifier-border) ;
+  color: var(--text-normal) ;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) ;
 }
 
 /* ========================================
@@ -741,34 +741,34 @@ DROPDOWN TEXT FIX - Light Mode Settings
 /* Dropdown text in light mode settings */
 .theme-light .modal select,
 .theme-light .modal .dropdown {
-    color: var(--text-normal) !important; /* Dark text */
-    background-color: var(--cappuccino-base) !important; /* Brown background */
-    border-color: var(--cappuccino-border) !important;
-    font-weight: bold !important;
+    color: var(--text-normal) ; /* Dark text */
+    background-color: var(--cappuccino-base) ; /* Brown background */
+    border-color: var(--cappuccino-border) ;
+    font-weight: bold ;
 }
 
 /* Dropdown hover state */
 .theme-light .modal select:hover,
 .theme-light .modal .dropdown:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important; /* White on hover */
+    background-color: var(--cappuccino-hover) ;
+    color: white ; /* White on hover */
 }
 
 /* Dropdown options text */
 .theme-light .modal select option {
-    color: var(--text-on-accent) !important; /* Dark text for options */
-    background-color: var(--cappuccino-base) !important;
+    color: var(--text-on-accent) ; /* Dark text for options */
+    background-color: var(--cappuccino-base) ;
 }
 
 /* Style Settings dropdowns */
 .theme-light .modal .style-settings-dropdown {
-    color: var(--text-normal) !important;
-    background-color: var(--cappuccino-base) !important;
+    color: var(--text-normal) ;
+    background-color: var(--cappuccino-base) ;
 }
 
 .theme-light .modal .style-settings-dropdown:hover {
-    background-color: var(--cappuccino-hover) !important;
-    color: white !important;
+    background-color: var(--cappuccino-hover) ;
+    color: white ;
 }
 
 
