@@ -757,6 +757,9 @@ DROPDOWN TEXT FIX - Light Mode Settings
     background-color: var(--cappuccino-base) ;
 }
 
+.view-content .pixel-banner-image { z-index: var(--layer-sidedock) }
+
+
 
 
 
