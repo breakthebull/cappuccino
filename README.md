@@ -147,6 +147,10 @@ This system lets you:
 ## Pro Tip:
 For the most cohesive look, choose accent colors that are **complementary or analogous** on the color wheel. The theme automatically adjusts text contrast to ensure readability no matter which combination you choose.
 
+### This is what it looks like when I use the Midnight Blue accent preset with an orange color in the primary accent:
+
+![screenshot001](https://github.com/breakthebull/cappuccino/blob/main/001.PNG)
+
 ---
 
 This feature is what makes Mocha Latte Cafe 002 more than just another theme - it's a **customizable color experience** that grows with your needs. ☕✨
