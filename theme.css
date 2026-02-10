@@ -410,10 +410,8 @@ NOTE CONTENT AREA
 ======================================== */
 /* Base Views */
 .markdown-source-view,
-.markdown-preview-view,
 .cm-s-obsidian {
     color: var(--text-normal);
-    background-color: var(--background-primary);
 }
 
 /* Headers */
@@ -758,8 +756,6 @@ DROPDOWN TEXT FIX - Light Mode Settings
 }
 
 .view-content .pixel-banner-image { z-index: var(--layer-sidedock) }
-
-
 
 
 
