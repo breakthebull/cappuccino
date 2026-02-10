@@ -109,6 +109,48 @@ Soften the edges for a more modern, friendly feel.
 ### Hide Status Bar
 Go full minimal for distraction-free writing.
 
+# ☕ **Triple-Layer Accent System - The Secret Ingredient**
+
+Mocha Latte Cafe 002 features a unique **triple-layer accent system** that gives you unprecedented control over your theme's color palette - like having three different coffee roasts to blend together!
+
+## How It Works:
+
+1. **☕ Accent Presets** (Forest Brown, Midnight Blue, Burgundy, Walnut)  
+   *The base roast* - Sets the overall color mood of your theme
+
+2. **☕ Primary Accent Color** (in Style Settings)  
+   *The espresso shot* - Controls borders, links, and interactive elements
+
+3. **☕ Native Obsidian Accent** (in Appearance settings)  
+   *The cream* - Affects hover states and subtle interactive elements (ex: the tags when using Custom Theme Studio use this setting)
+
+## Why It's Awesome:
+
+> *"It's like having a barista craft your perfect coffee - you get to layer flavors that work together to create something uniquely yours."*
+
+This system lets you:
+- Create **rich, multi-dimensional color schemes** where accents complement rather than conflict
+- Use the **Midnight Blue preset** as your base, then add **orange accents** for striking contrast
+- Maintain **consistent hover states** while customizing your primary accent
+- Achieve **professional-level design** without needing CSS knowledge
+
+## Try These Combinations:
+
+| Base (Preset) | Primary Accent | Result |
+|---------------|----------------|--------|
+| **Midnight Blue** | **Orange** | Deep blue hints with vibrant orange accents - perfect for focus |
+| **Burgundy** | **Gold** | Rich, warm tones that feel luxurious and classic |
+| **Forest Brown** | **Teal** | Earthy yet modern - great for writers and researchers |
+
+> *"The magic happens when all three layers work together - the preset sets the stage, the primary accent provides structure, and the native accent adds subtle highlights that make everything pop."*
+
+## Pro Tip:
+For the most cohesive look, choose accent colors that are **complementary or analogous** on the color wheel. The theme automatically adjusts text contrast to ensure readability no matter which combination you choose.
+
+---
+
+This feature is what makes Mocha Latte Cafe 002 more than just another theme - it's a **customizable color experience** that grows with your needs. ☕✨
+
 ---
 
 ## 📸 Screenshots
