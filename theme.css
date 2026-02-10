@@ -739,19 +739,10 @@ DROPDOWN TEXT FIX - Light Mode Settings
 ======================================== */
 
 /* Dropdown text in light mode settings */
-.theme-light .modal select,
-.theme-light .modal .dropdown {
-    color: var(--text-normal) ; /* Dark text */
-    background-color: var(--cappuccino-base) ; /* Brown background */
-    border-color: var(--cappuccino-border) ;
-    font-weight: bold ;
-}
 
 /* Dropdown hover state */
-.theme-light .modal select:hover,
 .theme-light .modal .dropdown:hover {
     background-color: var(--cappuccino-hover) ;
-    color: white ; /* White on hover */
 }
 
 /* Dropdown options text */
@@ -766,10 +757,6 @@ DROPDOWN TEXT FIX - Light Mode Settings
     background-color: var(--cappuccino-base) ;
 }
 
-.theme-light .modal .style-settings-dropdown:hover {
-    background-color: var(--cappuccino-hover) ;
-    color: white ;
-}
 
 
 
