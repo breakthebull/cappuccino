@@ -774,6 +774,20 @@ settings:
     level: 1
     collapsed: false
   -
+    id: background-primary
+    title: Primary Background Color
+    description: Main background where you write (editor/preview area)
+    type: variable-color
+    format: hex
+    default: '#2e1f16'
+  -
+    id: background-secondary
+    title: Sidebar Background Color
+    description: File explorer and side panels
+    type: variable-color
+    format: hex
+    default: '#1a120d'
+  -
     id: espresso-base
     title: Primary Accent Color
     description: Main coffee brown for links, highlights, and active states
@@ -794,27 +808,6 @@ settings:
     type: variable-color
     format: hex
     default: '#f5e8dc'
-  -
-    id: espresso-border
-    title: Border & Subtle Accent
-    description: Borders, dividers, and subtle highlights
-    type: variable-color
-    format: hex
-    default: '#3d281e'
-  -
-    id: background-primary
-    title: Note Canvas Background
-    description: Main background where you write
-    type: variable-color
-    format: hex
-    default: '#2e1f16'
-  -
-    id: background-secondary
-    title: Sidebar Background
-    description: File explorer and side panels
-    type: variable-color
-    format: hex
-    default: '#1a120d'
   -
     id: text-normal
     title: Body Text Color
