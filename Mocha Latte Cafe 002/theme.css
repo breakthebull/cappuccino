@@ -1,8 +1,8 @@
 /* ========================================
-OBSIDIAN THEME: Mocha Latte Cafe 002
+OBSIDIAN THEME: Mocha Latte Cafe 003
 AUTHOR: DA Rasmussen
 LICENSE: CC0-1.0
-VERSION: 002 - "Shot of Darkness"
+VERSION: 003
 ======================================== */
 /* -
 GLOBAL RESETS & FOUNDATIONS
@@ -134,8 +134,8 @@ THEME VARIABLES (CAPPUCCINO - LIGHT MODE)
     --text-accent-hover: var(--cappuccino-base);
 
     /* Interactive Elements */
-    --interactive-normal: var(--cappuccino-base);
-    --interactive-hover: var(--cappuccino-hover);
+    --interactive-normal: var(--cappuccino-hover);
+    --interactive-hover: var(--cappuccino-base);
     --interactive-accent: var(--cappuccino-border);
     --interactive-accent-hover: var(--cappuccino-hover);
 
@@ -159,12 +159,6 @@ THEME VARIABLES (CAPPUCCINO - LIGHT MODE)
 /* ========================================
 LIGHT MODE BUTTON FIX - All Buttons Brown with White Text
 ======================================== */
-.theme-light {
-    /* Ensure all interactive buttons use brown base */
-    --interactive-normal: var(--cappuccino-hover);
-    --interactive-hover: var(--cappuccino-base);
-    --text-on-accent: #fff;
-}
 
 /* Regular Buttons */
 .theme-light button:not(.mod-cta, .mod-warning, .clickable-icon, .setting-editor-extra-setting-button, .workspace-tab-header-inner-close-button) {
@@ -886,7 +880,7 @@ settings:
     description: Instantly change the theme's mood
     type: class-select
     allowEmpty: true
-    default: none
+    default: mocha-walnut
     options:
       -
         label: 'None (Custom)'
