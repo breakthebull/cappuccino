@@ -18,7 +18,7 @@ GLOBAL RESETS & FOUNDATIONS
     /* Font Stack */
     --default-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     --font-monospace: "Source Code Pro", "Fira Code", Consolas, monospace;
-    
+
     /* Typography from Style Settings */
     --font-size-normal: 16px;
     --font-size-code: 15px;
@@ -310,11 +310,11 @@ LIGHT MODE BUTTON FIX - All Buttons Brown with White Text
 APPLICATION SHELL
 ======================================== */
 /* Startup Progress */
-.progress-bar .progress-bar-line { 
-    background-color: var(--background-secondary); 
+.progress-bar .progress-bar-line {
+    background-color: var(--background-secondary);
 }
-.progress-bar .progress-bar-subline { 
-    background-color: var(--espresso-base); 
+.progress-bar .progress-bar-subline {
+    background-color: var(--espresso-base);
 }
 
 /* Modals & Overlays */
@@ -348,8 +348,8 @@ WORKSPACE LAYOUT
     color: var(--espresso-base);
     opacity: 1;
 }
-.titlebar-button { 
-    color: var(--icon-color-normal); 
+.titlebar-button {
+    color: var(--icon-color-normal);
 }
 
 /* Ribbons */
@@ -417,12 +417,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* Emphasis */
-strong, .cm-strong { 
-    font-weight: 700; 
-    color: var(--text-normal); 
+strong, .cm-strong {
+    font-weight: 700;
+    color: var(--text-normal);
 }
-em, .cm-em { 
-    font-style: italic; 
+em, .cm-em {
+    font-style: italic;
 }
 mark, .cm-highlight {
     background-color: var(--text-highlight-bg);
@@ -568,17 +568,17 @@ input:focus, textarea:focus {
 SPECIAL VIEWS
 ======================================== */
 /* Graph View */
-.graph-view.color-fill { 
-    color: var(--text-muted); 
+.graph-view.color-fill {
+    color: var(--text-muted);
 }
-.graph-view.color-fill-focused { 
-    color: #ffcc00; 
+.graph-view.color-fill-focused {
+    color: #ffcc00;
 }
-.graph-view.color-fill-tag { 
-    color: #a87c5e; 
+.graph-view.color-fill-tag {
+    color: #a87c5e;
 }
-.graph-view.color-fill-attachment { 
-    color: #4a7ba7; 
+.graph-view.color-fill-attachment {
+    color: #4a7ba7;
 }
 .graph-view.color-fill-unresolved {
     color: var(--text-faint);
@@ -590,8 +590,8 @@ SPECIAL VIEWS
     opacity: 0.7;
 }
 .graph-view.color-circle,
-.graph-view.color-text { 
-    color: var(--text-normal); 
+.graph-view.color-text {
+    color: var(--text-normal);
 }
 .graph-view.color-fill-highlight,
 .graph-view.color-line-highlight {
@@ -643,10 +643,6 @@ body.mocha-forest {
     --espresso-hover: #6b5e4d ;
     --espresso-active: #e8e0d5 ;
     --espresso-border: #4a4035 ;
-    --cappuccino-base: #8a7b68 ;
-    --cappuccino-hover: #6b5e4d ;
-    --cappuccino-active: #e8e0d5 ;
-    --cappuccino-border: #4a4035 ;
 }
 
 /* 🔵 Midnight Blue Preset */
@@ -655,10 +651,6 @@ body.mocha-midnight {
     --espresso-hover: #52687d ;
     --espresso-active: #e6edf5 ;
     --espresso-border: #3d4e5e ;
-    --cappuccino-base: #6b829a ;
-    --cappuccino-hover: #52687d ;
-    --cappuccino-active: #e6edf5 ;
-    --cappuccino-border: #3d4e5e ;
 }
 
 /* 🍷 Burgundy Preset */
@@ -667,10 +659,6 @@ body.mocha-burgundy {
     --espresso-hover: #7d4458 ;
     --espresso-active: #f5e8ed ;
     --espresso-border: #5e3544 ;
-    --cappuccino-base: #9a586b ;
-    --cappuccino-hover: #7d4458 ;
-    --cappuccino-active: #f5e8ed ;
-    --cappuccino-border: #5e3544 ;
 }
 
 /* 🟤 Rich Walnut Preset */
@@ -679,10 +667,6 @@ body.mocha-walnut {
     --espresso-hover: #8b6246 ;
     --espresso-active: #f0e8e0 ;
     --espresso-border: #6b4d35 ;
-    --cappuccino-base: #a87c5e ;
-    --cappuccino-hover: #8b6246 ;
-    --cappuccino-active: #f0e8e0 ;
-    --cappuccino-border: #6b4d35 ;
 }
 
 /* ========================================
