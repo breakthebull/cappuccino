@@ -159,6 +159,10 @@ This feature is what makes Mocha Latte Cafe 002 more than just another theme - i
 
 ## 📸 Screenshots
 
+### New Images
+![new](https://github.com/breakthebull/cappuccino/blob/main/Dark%20New.PNG)
+![new](https://github.com/breakthebull/cappuccino/blob/main/Light%20New.PNG)
+
 ### Main
 ![screenshot](https://github.com/breakthebull/cappuccino/blob/main/screenshot.png)
 ![espresso](https://github.com/breakthebull/cappuccino/blob/main/mocha%20dark.PNG)
